@@ -16,11 +16,11 @@ Part 1 is about how to interact with the dss_python module, a built-in Python li
 
 ## New to OpenDSS, Distribution Networks and DER?
 
-* If you are new to distribution network and DER modelling and want to learn more about OpenDSS before you get into advanced coding, we recommend you go through this training material: https://sites.google.com/view/luisfochoa/research-tools/opendss-training-material
+* If you are new to distribution network and DER modelling and want to learn more about OpenDSS before you get into advanced coding, we recommend you go through our **OpenDSS For Beginners** training material: https://sites.google.com/view/luisfochoa/research-tools/opendss-training-material
 
 ## Pre-Requisites for Part 1
 
-* OpenDSS, Python (Anaconda), and Jupyter Notebook (comes with Anaconda). GitHub Desktop is optional. For download links and more info: https://sites.google.com/view/luisfochoa/research-tools
+* OpenDSS, Python (Anaconda), and Jupyter Notebook (comes with Anaconda). GitHub Desktop is optional. For download links and more info: https://sites.google.com/view/luisfochoa/research-tools. *Remember to always install using full admin rights*.
 
 * dss_python module. Run "python -m pip install dss_python" in the Anaconda Prompt.
 
