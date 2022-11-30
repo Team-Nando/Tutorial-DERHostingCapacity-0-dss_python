@@ -36,11 +36,13 @@ Michael Liu (michael.liu@unimelb.edu.au)
 
 Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfochoa)
 
-## Acknowledgement and Licenses
+## Acknowledgement
 
 The content of this repository has been produced with direct and/or indirect inputs from multiple members (past and present) of Prof Nando Ochoa’s Research Team. So, special thanks to all of them (many of whom are now in different corners of the world).
 
 * https://sites.google.com/view/luisfochoa/research/research-team
 * https://sites.google.com/view/luisfochoa/research/past-team-members
 
-Since this repo uses dss_python which is based on OpenDSS, both licenses have been included. This repository uses the BSD 3-Clause "New" or "Revised" License. Check all corresponding files (`LICENSE-OpenDSS`, `LICENSE-dss_python`, `LICENSE`).
+## Licenses
+
+Since this repository uses dss_python which is based on OpenDSS, both licenses have been included. This repository uses the BSD 3-Clause "New" or "Revised" license. Check all corresponding files (`LICENSE-OpenDSS`, `LICENSE-dss_python`, `LICENSE`).
