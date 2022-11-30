@@ -1,4 +1,4 @@
-Last update: 22/06/2022
+Last update: 30/11/2022
 
 # Tutorial on DER Hosting Capacity - Part 1: Using dss_python
 
@@ -36,9 +36,11 @@ Michael Liu (michael.liu@unimelb.edu.au)
 
 Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfochoa)
 
-## Acknowledgement
+## Acknowledgement and Licenses
 
 The content of this repository has been produced with direct and/or indirect inputs from multiple members (past and present) of Prof Nando Ochoa’s Research Team. So, special thanks to all of them (many of whom are now in different corners of the world).
 
 * https://sites.google.com/view/luisfochoa/research/research-team
 * https://sites.google.com/view/luisfochoa/research/past-team-members
+
+Since this repo uses dss_python which is based on OpenDSS, both licenses have been included. This repository uses the BSD 3-Clause "New" or "Revised" License. Check all corresponding files (`LICENSE-OpenDSS`, `LICENSE-dss_python`, `LICENSE`).
