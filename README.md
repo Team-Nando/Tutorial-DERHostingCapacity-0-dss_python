@@ -26,7 +26,7 @@ Part 1 is about how to interact with the dss_python module, a built-in Python li
 
 ## Run Part 1
 
-* You can download the source code (the .zip file will do) from the releases section (https://github.com/Team-Nando-Training/Tutorial-DERHostingCapacity-1-dss_python/releases) or clone the entire repository to your local drive using GitHub Desktop. Unzip the file.
+* You can download the source code (the .zip file will do) using the green `<> CODE` button at the top or clone the entire repository to your local drive using GitHub Desktop. If you downloaded the code, unzip the file.
 
 * Run Jupyter Notebook (it will open a tab on your browser). Upload "main.ipynb" and click on the uploaded file. In the new tab, go through the tutorial by running each cell accordingly (use the "play" button on the left).
 
