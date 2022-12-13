@@ -12,7 +12,7 @@ This Tutorial is designed for power engineering students (undergraduate and post
 
 Part 1 is about how to interact with the dss_python module, a built-in Python library to replace using OpenDSS via the COM interface. This makes simulations and the handling of data/results much faster as everything will be native to Python. The dss_python module is built as a drop-in replacement for the COM interface where 99% of the code does not need to be changed. More information about dss_python can be found in https://dss-extensions.org/. Thanks to our colleagues and friends at the University of Campinas (UNICAMP, https://www.unicamp.br/), Brazil for this contribution!
 
-* Note: The use of dss_python implies you will be using (and, therefore, you will be limited to) the embedded models and control functions of OpenDSS for particular elements. For instance, you can use OpenDSS's Volt-Watt function for solar PV systems. But you will not be able to modify it to do simultaneous Volt-Watt and Volt-var. If you need to create specific functionalities in Python, then you will need to interact with OpenDSS via the COM interface (which can also be done using Python).
+* Note: The use of dss_python implies you will be using (and, therefore, you will be limited to) the latest version of dss_python which might not necessarily be the latest version of OpenDSS. This could affect, for instance, certain embedded models and control functions. So, keep an eye on the latest versions and their differences. For most types of studies, the available version of dss_python will be more than enough.
 
 ## New to OpenDSS, Distribution Networks and DER?
 
