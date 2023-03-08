@@ -8,9 +8,9 @@ This Tutorial on Distributed Energy Resource (DER) Hosting Capacity will guide y
 
 This Tutorial is designed for power engineering students (undergraduate and postgraduate), power engineers, researchers, consultants, etc. It requires coding knowledge - of course!. But not too advanced. If you are a decent coder, you will manage ;-)
 
-## Part 1: Using dss_python
+## Part 0: Using dss_python
 
-Part 1 is about how to interact with the dss_python module, a built-in Python library to replace using OpenDSS via the COM interface. This makes simulations and the handling of data/results much faster as everything will be native to Python. The dss_python module is built as a drop-in replacement for the COM interface where 99% of the code does not need to be changed. More information about dss_python can be found in https://dss-extensions.org/. Thanks to our colleagues and friends at the University of Campinas (UNICAMP, https://www.unicamp.br/), Brazil for this contribution!
+Part 0 is about how to interact with the dss_python module, a built-in Python library to replace using OpenDSS via the COM interface. This makes simulations and the handling of data/results much faster as everything will be native to Python. The dss_python module is built as a drop-in replacement for the COM interface where 99% of the code does not need to be changed. More information about dss_python can be found in https://dss-extensions.org/. Thanks to our colleagues and friends at the University of Campinas (UNICAMP, https://www.unicamp.br/), Brazil for this contribution!
 
 * Note: The use of dss_python implies you will be using (and, therefore, you will be limited to) the latest version of dss_python which might not necessarily be the latest version of OpenDSS. This could affect, for instance, certain embedded models and control functions. So, keep an eye on the latest versions and their differences. For most types of studies, the available version of dss_python will be more than enough.
 
@@ -18,13 +18,13 @@ Part 1 is about how to interact with the dss_python module, a built-in Python li
 
 * If you are new to distribution network and DER modelling and want to learn more about OpenDSS before you get into advanced coding, we recommend you go through our **OpenDSS For Beginners** training material: https://sites.google.com/view/luisfochoa/research-tools/opendss-training-material
 
-## Pre-Requisites for Part 1
+## Pre-Requisites for Part 0
 
 * OpenDSS, Python (Anaconda), and Jupyter Notebook (comes with Anaconda). GitHub Desktop is optional. For download links and more info: https://sites.google.com/view/luisfochoa/research-tools. *Remember to always install using full admin rights*.
 
 * dss_python module. Run "python -m pip install dss_python" in the Anaconda Prompt.
 
-## Run Part 1
+## Run Part 0
 
 * You can download the source code (the .zip file will do) using the green `<> CODE` button at the top or clone the entire repository to your local drive using GitHub Desktop. If you downloaded the code, unzip the file.
 
