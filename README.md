@@ -1,5 +1,3 @@
-Last update: 30/11/2022
-
 # Tutorial on DER Hosting Capacity - Part 0: Using dss_python
 
 ## Tutorial on DER Hosting Capacity
