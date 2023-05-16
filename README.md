@@ -43,7 +43,7 @@ Enjoy!
 
 ## Credits
 
-Michael Liu (michael.liu@unimelb.edu.au)
+Michael Liu (michael.liu@unimelb.edu.au)  
 Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfochoa)
 
 ## Acknowledgement
