@@ -2,21 +2,22 @@
 
 ## Tutorial on DER Hosting Capacity
 
-This Tutorial on Distributed Energy Resource (DER) Hosting Capacity will guide you, using interactive code via Jupyter Notebook and Python, through the different steps to run advanced, detailed time-series simulations to properly assess the technical impacts of DERs (such as solar photovoltaics) on realistic three-phase unbalanced distribution networks. Throuhought this tutorial we will be using OpenDSS (https://sourceforge.net/projects/electricdss/) - an open source distribution network analysis tool developed by the Electric Power Research Instutite (EPRI, https://www.epri.com/), USA. Thanks to our colleagues and friends at EPRI for this important contribution to the world!
+This multi-part Tutorial on Distributed Energy Resource (DER) Hosting Capacity will guide you, using interactive code via Jupyter Notebook and Python, through the different steps to run advanced, detailed time-series simulations to properly assess the technical impacts of DERs (such as solar photovoltaics) on realistic three-phase unbalanced distribution networks. Throuhought this tutorial we will be using [OpenDSS](https://sourceforge.net/projects/electricdss/) - an open source distribution network analysis tool developed by the Electric Power Research Instutite ([EPRI](https://www.epri.com/)), USA. OpenDSS will be used here entirely with Python code thanks to the [dss_python](https://github.com/dss-extensions/dss_python) module developed by researchers at the [University of Campinas](https://www.unicamp.br/unicamp/) in Brazil. So, thanks to our colleagues and friends at EPRI and at UNICAMP for this important contribution to the world! 
 
 This Tutorial is designed for power engineering students (undergraduate and postgraduate), power engineers, researchers, consultants, etc. It requires coding knowledge - of course!. But not too advanced. If you are a decent coder, you will manage ;-)
 
 ## Part 0: Using dss_python
 
-Part 0 is about how to interact with the dss_python module, a built-in Python library to replace using OpenDSS via the COM interface. This makes simulations and the handling of data/results much faster as everything will be native to Python. The dss_python module is built as a drop-in replacement for the COM interface where 99% of the code does not need to be changed. More information about dss_python can be found in https://dss-extensions.org/. Thanks to our colleagues and friends at the University of Campinas (UNICAMP, https://www.unicamp.br/), Brazil for this contribution!
+The objectives of this tutorial are:
+1. To familiarise with **advanced tools** useful to run distribution network studies involving DER. You will be using the programming language Python and the advanced distribution network analysis tool [OpenDSS](https://www.epri.com/pages/sa/opendss), an open source tool developed by the [Electric Power Research Institute (EPRI)](https://www.epri.com) in the US. OpenDSS will be used here entirely with Python code thanks to the [dss_python](https://github.com/dss-extensions/dss_python) module developed by researchers at the [University of Campinas](https://www.unicamp.br/unicamp/) in Brazil. And, to guide you, all will be done using a notebook on [Jupyter Notebook](https://jupyter.org/).
 
-* Note: The use of dss_python implies you will be using (and, therefore, you will be limited to) the latest version of dss_python which might not necessarily be the latest version of OpenDSS. This could affect, for instance, certain embedded models and control functions. So, keep an eye on the latest versions and their differences. For most types of studies, the available version of dss_python will be more than enough.
+2. To interact with the **dss_python module** which replaces using OpenDSS via the COM interface. This makes simulations and the handling of data/results much faster as everything will be native to Python.
 
-## New to OpenDSS, Distribution Networks and DER?
+### New to OpenDSS, Distribution Networks and DER?
 
 * If you are new to distribution network and DER modelling and want to learn more about OpenDSS before you get into advanced coding, we recommend you go through our **OpenDSS For Beginners** training material: https://sites.google.com/view/luisfochoa/research-tools/opendss-training-material
 
-## Pre-Requisites for Part 0
+### Pre-Requisites for Part 0
 
 * OpenDSS, Python (Anaconda), and Jupyter Notebook (comes with Anaconda). GitHub Desktop is optional. For download links and more info: https://sites.google.com/view/luisfochoa/research-tools. *Remember to always install using full admin rights*.
 
@@ -24,9 +25,21 @@ Part 0 is about how to interact with the dss_python module, a built-in Python li
 
 ## Run Part 0
 
-* You can download the source code (the .zip file will do) using the green `<> CODE` button at the top or clone the entire repository to your local drive using GitHub Desktop. If you downloaded the code, unzip the file.
+Make sure you have installed Anaconda, the dss_python module, etc. as specified above. Otherwise, you will not be able to go through the tutorial.
 
-* Run Jupyter Notebook (it will open a tab on your browser). Upload "main.ipynb" and click on the uploaded file. In the new tab, go through the tutorial by running each cell accordingly (use the "play" button on the left).
+1. Download all the files using the green **`<> Code`** button at the top right.
+   - You will get a ZIP file with a folder that contains all the files.
+   - Unzip the file an place the folder somewhere in your computer/laptop.
+3. To open the Jupyter notebook file (extension **`ipynb`**) you need to:
+   - Open Anaconda Navigator
+   - Click on Launch Jupyter notebook (it will open in your browser)
+   - Upload the unzipped folder (with all the corresponding files) to Jupyter Notebook (the location is up to you)
+   - Go inside the folder and open the **`ipynb`** file
+
+All the tutorial instructions will be in the **`ipynb`** file.
+
+Enjoy!
+
 
 ## Credits
 
