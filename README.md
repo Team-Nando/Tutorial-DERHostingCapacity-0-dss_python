@@ -11,7 +11,7 @@ This Tutorial is designed for power engineering students (undergraduate and post
 The objectives of this tutorial are:
 1. To familiarise with **advanced tools** useful to run distribution network studies involving DER. You will be using the programming language Python and the advanced distribution network analysis tool [OpenDSS](https://www.epri.com/pages/sa/opendss), an open source tool developed by the [Electric Power Research Institute (EPRI)](https://www.epri.com) in the US. OpenDSS will be used here entirely with Python code thanks to the [dss_python](https://github.com/dss-extensions/dss_python) module developed by researchers at the [University of Campinas](https://www.unicamp.br/unicamp/) in Brazil. And, to guide you, all will be done using a notebook on [Jupyter Notebook](https://jupyter.org/).
 
-2. To interact with the **dss_python module** which replaces using OpenDSS via the COM interface. This makes simulations and the handling of data/results much faster as everything will be native to Python.
+2. To interact with the **dss_python module** and show how it replaces using OpenDSS via the COM interface. This module makes simulations and the handling of data/results much faster as everything will be native to Python.
 
 ### New to OpenDSS, Distribution Networks and DER?
 
@@ -19,7 +19,7 @@ The objectives of this tutorial are:
 
 ### Pre-Requisites for Part 0
 
-- OpenDSS, Python (Anaconda), and Jupyter Notebook (comes with Anaconda). GitHub Desktop is optional. For download links and more info: https://sites.google.com/view/luisfochoa/research-tools. *Remember to always install using full admin rights*.
+- Install [OpenDSS](https://sourceforge.net/projects/electricdss/) and [Anaconda](https://www.anaconda.com/download). Python and Jupyter Notebook come with Anaconda. [GitHub Desktop](https://desktop.github.com/) is encouraged to better manage your repositories but is optional. More info about these software packages: https://sites.google.com/view/luisfochoa/research-tools. *Remember to always install using full admin rights*.
 
 - dss_python module. Run "python -m pip install dss_python" in the Anaconda Prompt.
 
