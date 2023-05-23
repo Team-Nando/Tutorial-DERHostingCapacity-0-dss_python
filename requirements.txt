@@ -1,0 +1,5 @@
+dss==0.8
+dss_python==0.10.7.post1
+matplotlib==3.5.3
+numpy==1.23.1
+pywin32==302
