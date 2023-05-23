@@ -25,7 +25,7 @@ The objectives of this tutorial are:
 
 ## Run Part 0
 
-Make sure you have installed Anaconda, the dss_python module, etc. as specified above. Otherwise, you will not be able to go through the tutorial.
+Make sure you have installed Anaconda, the dss_python module, etc. as specified above. Otherwise, you will not be able to go through the tutorial. To guarantee that you have all the necessary packages you can also run the  **`requirements.txt`** file using  **`pip install -r requirements.txt`** on the Anaconda prompt.
 
 1. Download all the files using the green **`<> Code`** button at the top right.
    - You will get a ZIP file with a folder that contains all the files.
