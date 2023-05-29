@@ -9,11 +9,11 @@ This Tutorial is designed for power engineering students (undergraduate and post
 ## Part 0: Using dss_python
 
 The objectives of this tutorial are:
-1. To familiarise with **advanced tools** useful to run distribution network studies involving DER. You will be using the programming language Python and the advanced distribution network analysis tool [OpenDSS](https://www.epri.com/pages/sa/opendss) via the [dss_python](https://github.com/dss-extensions/dss_python) module. And, to guide you, all will be done using a notebook on [Jupyter Notebook](https://jupyter.org/).
+1. To familiarise with **advanced tools** useful to run distribution network studies involving DERs. You will be using the programming language Python and the advanced distribution network analysis tool [OpenDSS](https://www.epri.com/pages/sa/opendss) via the [dss_python](https://github.com/dss-extensions/dss_python) module. And, to guide you, all will be done using a notebook on [Jupyter Notebook](https://jupyter.org/).
 
 2. To interact with the **dss_python module** and show how it replaces using OpenDSS via the COM interface. This module makes simulations and the handling of data/results much faster as everything will be native to Python.
 
-### New to OpenDSS, Distribution Networks and DER?
+### New to OpenDSS, Distribution Networks and DERs?
 
 - If you are new to distribution network and DER modelling and want to learn more about OpenDSS before you get into advanced coding, we recommend you go through our **OpenDSS For Beginners** training material: https://sites.google.com/view/luisfochoa/research-tools/opendss-training-material
 
