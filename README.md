@@ -41,7 +41,7 @@ Make sure you have installed Anaconda, the dss_python module, etc. as specified 
 
 All the tutorial instructions will be in the **`ipynb`** file.
 
-Enjoy!
+Enjoy! 🤓
 
 
 ## Credits
