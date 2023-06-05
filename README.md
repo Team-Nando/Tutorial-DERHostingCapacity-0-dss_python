@@ -21,7 +21,7 @@ The objectives of this tutorial are:
 
 - OpenDSS. Download link https://sourceforge.net/projects/electricdss/.
 - Python (Anaconda) and Jupyter Notebook (comes with Anaconda). Download links and more info: https://www.anaconda.com/download. Note that you must install the Anaconda that is compatible with your operating system (e.g., Windows, Mac). Also note that this repository is meant to be used by individuals (who can get free access to Anaconda).
-- dss_python module. To install, run `pip install dss_python` in the Anaconda Prompt. Note that for MacOS you may need to install the OpenDSSDirect (https://dss-extensions.org/OpenDSSDirect.py/index.html) instead of the dss_python. To install, run `pip install OpenDSSDirect.py` in the Anconda prompt.
+- dss_python module. To install, run `pip install dss_python` in the Anaconda Prompt.
 - To guarantee that you have all the necessary packages you can also run the `requirements.txt` file using `pip install -r requirements.txt` in the Anaconda prompt.
 - *Remember to always install using full admin rights*.
 - More info about these software packages: https://sites.google.com/view/luisfochoa/research-tools.
