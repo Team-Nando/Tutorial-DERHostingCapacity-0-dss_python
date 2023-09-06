@@ -47,6 +47,8 @@ Enjoy! 🤓
 ## Credits
 
 Michael Liu (michael.liu@unimelb.edu.au)  
+Eshan Karunarathne (akarunarathn@student.unimelb.edu.au)  
+Arthur Goncalves Givisiez (a.goncalvesgivisiez@unimelb.edu.au)  
 Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfochoa)
 
 ## Acknowledgement
