@@ -15,7 +15,7 @@ The objectives of this tutorial are:
 
 ### New to OpenDSS, Distribution Networks and DERs?
 
-- If you are new to distribution network and DER modelling and want to learn more about OpenDSS before you get into advanced coding, we recommend you go through our **OpenDSS For Beginners** training material: https://sites.google.com/view/luisfochoa/research-tools/opendss-training-material
+- If you are new to distribution networks and DER modelling and want to learn more about OpenDSS before you get into advanced coding, we recommend you go through our **OpenDSS For Beginners** training material: https://sites.google.com/view/luisfochoa/research-tools/opendss-training-material
 
 ### Pre-Requisites for Part 0
 
@@ -32,10 +32,10 @@ Make sure you have installed Anaconda, the dss_python module, etc. as specified 
 
 1. Download all the files using the green **`<> Code`** button at the top right.
    - You will get a ZIP file with a folder that contains all the files.
-   - Unzip the file an place the folder somewhere in your computer/laptop.
-3. To open the Jupyter notebook file (extension **`ipynb`**) you need to:
+   - Unzip the file and place the folder somewhere on your computer/laptop.
+3. To open the Jupyter Notebook file (extension **`ipynb`**) you need to:
    - Open Anaconda Navigator
-   - Click on Launch Jupyter notebook (it will open in your browser)
+   - Click on Launch Jupyter Notebook (it will open in your browser)
    - Upload the unzipped folder (with all the corresponding files) to Jupyter Notebook (the location is up to you)
    - Go inside the folder and open the **`ipynb`** file
 
