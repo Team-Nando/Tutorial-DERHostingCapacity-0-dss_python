@@ -15,7 +15,7 @@ The objectives of this tutorial are:
 
 ### New to OpenDSS, Distribution Networks and DERs?
 
-- If you are new to distribution networks and DER modelling and want to learn more about OpenDSS before you get into advanced coding, we recommend you go through our **OpenDSS For Beginners** training material: https://sites.google.com/view/luisfochoa/research-tools/opendss-training-material
+- If you are new to distribution networks and DER modelling and want to learn more about OpenDSS before you get into advanced coding, we recommend you go through our **OpenDSS For Beginners** training material: https://sites.google.com/view/luisfochoa/research-tools
 
 ### Pre-Requisites for Part 0
 
